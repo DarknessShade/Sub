@@ -1,6 +1,6 @@
  # <p align="center">$\color{gold} \Large \text{ÐΛɌ₭ᑎΞ𐒡𐒡}$</p>
 
-## https://darknessm427.github.io/Sub/
+## https://darknessshade.github.io/Sub/
 
 ![rand](https://rand-xyz.now.sh/api/hello)
 
